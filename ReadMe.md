@@ -2,4 +2,4 @@
 
 Pubblicato su [Github Pages](http://pages.github.com)
 
-Il sito si vede  [qui](http://pachialu.github.io/marco).
+Il sito si vede  [qui](http://pachialu.github.io/marco-pages).
