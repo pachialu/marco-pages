@@ -2,7 +2,6 @@
 layout: page
 tagline: Marco da pachialu su GitHubPages
 description: v.20150720
-
 title: La Bella Notizia secondo Marco
 permalink: /La_Bella_Notizia_secondo_Marco/
 ---
