@@ -1,10 +1,15 @@
 ---
 layout: page
 title: La Bella Notizia secondo Marco
-description: v.20160418
+description: v.20160731
 ---
 
-La [bella notizia](/G/bella_notizia "wikilink") di Marco è probabilmente il più antico dei racconti della vita di Gesù, passato dalla forma orale a quella scritta.
+Gli eventi della vita di Gesù venivano raccontati dai suoi allievi ai chi volveva ascoltare.
+
+Ad un certo punto qualcuno ha pensato di mettere per iscritto quello che veniva tramandato dagli allievi.
+
+La Bella Notizia secondo Marco è il primo dei resoconti della vita di Gesù ad essere registrato in forma scritta, 
+probabilmente attorno al 70 dopo Cristo, cioè 30 o 40 anni dopo gli eventi narrati.
 
 * [Marco 1](pages/Mc01.html)
 * [Marco 2](pages/Mc02.html)
@@ -22,3 +27,6 @@ La [bella notizia](/G/bella_notizia "wikilink") di Marco è probabilmente il pi�
 * [Marco 14](pages/Mc14.html)
 * [Marco 15](pages/Mc15.html)
 * [Marco 16](pages/Mc16.html)
+
+*[Glossario](pages/G.html)
+*[Posti](pages/P.html)
