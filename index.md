@@ -4,9 +4,9 @@ title: La Bella Notizia secondo Marco
 description: v.20160731
 ---
 
-Gli eventi della vita di Gesù venivano raccontati dai suoi allievi ai chi volveva ascoltare.
+Gli eventi della vita di Gesù venivano raccontati dai suoi allievi a chi voleva ascoltare.
 
-Ad un certo punto qualcuno ha pensato di mettere per iscritto quello che veniva tramandato dagli allievi.
+Ad un certo punto qualcuno ha pensato di mettere per iscritto gli episodi tramandati a voce dagli allievi.
 
 La Bella Notizia secondo Marco è il primo dei resoconti della vita di Gesù ad essere registrato in forma scritta, 
 probabilmente attorno al 70 dopo Cristo, cioè 30 o 40 anni dopo gli eventi narrati.
@@ -28,5 +28,5 @@ probabilmente attorno al 70 dopo Cristo, cioè 30 o 40 anni dopo gli eventi narr
 * [Marco 15](pages/Mc15.html)
 * [Marco 16](pages/Mc16.html)
 
-*[Glossario](pages/G.html)
-*[Posti](pages/P.html)
+* [Glossario](pages/G.html)
+* [Posti](pages/P.html)
