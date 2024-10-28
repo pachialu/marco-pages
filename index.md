@@ -1,6 +1,6 @@
 ---
 layout: page
-title: La Bella Notizia secondo Marco
+title: La Buona Notizia secondo Marco
 description: v.20160731
 ---
 
@@ -27,6 +27,3 @@ probabilmente attorno al 70 dopo Cristo, cioè 30 o 40 anni dopo gli eventi narr
 * [Marco 14](pages/Mc14.html)
 * [Marco 15](pages/Mc15.html)
 * [Marco 16](pages/Mc16.html)
-
-* [Glossario](pages/G.html)
-* [Posti](pages/P.html)
